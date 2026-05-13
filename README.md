@@ -98,8 +98,8 @@ Accessible via `/Book/IndexSP`, `/Book/CreateSP`, `/Book/EditSP/{id}`, `/Book/De
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Bookstore-Management-App.git
-cd Bookstore-Management-App/BookstoreApp
+git clone https://github.com/DibyaGit/ADO.Net-EF-Core-Bookstore-Management-App.git
+cd ADO.Net-EF-Core-Bookstore-Management-App/BookstoreApp
 ```
 
 ### 2. Set Up the Database
